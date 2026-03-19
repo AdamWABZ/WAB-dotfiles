@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontSize": 13,
+  "workbench.colorTheme": "One Dark Pro",
+  "files.autoSave": "onWindowChange"
+}
